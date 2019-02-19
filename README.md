@@ -1,5 +1,10 @@
 # Experiments with Reducing Algorithmic Bias in Gender Classification Systems
 
+Agasthya Shenoy
+
+Mehul Raje
+
+Emma Dwight
 
 ## Problem Statement and Motivation
 
@@ -17,8 +22,4 @@ This project recognises that we live in a world with terribly imperfect datasets
 - Explore data augmentation techniques to counteract imbalance in training data
 - Use transfer learning to determine whether pre-trained image classification models can improve their accuracy when re-trained for a different task.
 
-Agasthya Shenoy
 
-Mehul Raje
-
-Emma Dwight
